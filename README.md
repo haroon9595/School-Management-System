@@ -43,11 +43,24 @@ A professional **School Management System** designed to manage students, teacher
 
 ## Installation & Usage
 
-1. Open **SQL Server Management Studio (SSMS)**.  
-2. Create a new database, e.g., `SchoolDB`.  
-3. Run SQL scripts to create tables and insert sample data.  
-4. Open the solution in **Visual Studio**.  
-5. Update the connection string in the app:
+Open SQL Server Management Studio (SSMS).
 
-```csharp
-Data Source=YourServerName;Initial Catalog=SchoolDB;Integrated Security=True;Encrypt=False
+Create a new database, e.g., SchoolDB.
+
+All required SQL tables and queries are already included in the project.
+
+The complete database schema (CREATE TABLE scripts)
+
+Sample data insertion queries
+
+Stored procedures and necessary SQL queries used in the application
+
+Run the provided SQL script file in SSMS to automatically create all tables and relationships.
+
+Open the solution in Visual Studio.
+
+Update the connection string in the application:
+
+Data Source=YourServerName;Initial Catalog=SchoolDB;Integrated Security=True;Encrypt=False;
+
+Build and run the project.
