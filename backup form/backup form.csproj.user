@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="addClassSub.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="addstd.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="adminForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AssignFee.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="dashboardForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="EditStudentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditTeacherRecord.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="FeeForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="loginForms\Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="images\Form5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="managestudent.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="addTeacherForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="MonthlyRep.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ReportsFee.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="resultForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="SprofileForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="StudentUpdateForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="subjectAssign.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="TeacherForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="timetable.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="updateFee.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="updatestd.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="viewFeeRecord.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="viewStudent.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="viewSubject.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="viewTeacher.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="viewTeacherRole.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
